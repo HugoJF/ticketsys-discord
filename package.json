@@ -1,0 +1,29 @@
+{
+  "name": "ticketsys-discord",
+  "version": "0.0.1",
+  "description": "Sistema de ticket para o Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjkGustavo.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Gustavo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjkGustavo/issues"
+  },
+  "homepage": "https://github.com/kjkGustavo#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.2.0",
+    "enmap": "^4.6.6",
+    "fs": "0.0.1-security",
+    "readdir": "^0.1.0"
+  }
+}
